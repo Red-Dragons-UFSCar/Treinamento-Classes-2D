@@ -1,9 +1,7 @@
 # Treinamento-Classes-2D
 Repositório destinado para avaliação da atividade referente ao treinamento de C++ 
 
-# 🚀 Projeto de Simulação de Jogadores de Futebol
-
-## 📌 Visão Geral
+##  Projeto de Simulação de Jogadores de Futebol 2D
 Simulador de ações de jogadores usando POO em C++ com herança e polimorfismo,explicação do uso de herança e polimorfismo no código.
 
 ### Herança
