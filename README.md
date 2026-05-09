@@ -1,6 +1,6 @@
 **Getting Started**
 
-Compile e exetude da seguinte maneira:
+Compile e execute da seguinte maneira:
 
 ```bash
   g++ -o main main.cpp
